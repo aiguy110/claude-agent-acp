@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.77.1](https://github.com/agentclientprotocol/claude-agent-acp/compare/v0.77.0...v0.77.1) (2026-09-14)
+
+
+### Bug Fixes
+
+* keep the picked option when AskUserQuestion custom text is also supplied ([#1131](https://github.com/agentclientprotocol/claude-agent-acp/issues/1131)) ([8823ea6](https://github.com/agentclientprotocol/claude-agent-acp/commit/8823ea6fcb6743d37c1aad91ccd44725164b8927))
+
 ## [0.77.0](https://github.com/agentclientprotocol/claude-agent-acp/compare/v0.76.0...v0.77.0) (2026-09-14)
 
 
